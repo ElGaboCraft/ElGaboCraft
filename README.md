@@ -1,87 +1,98 @@
-# 👾 ElGaboCraft | Cybersecurity & Automation Lead
+# 👾 ElGaboCraft | Ingeniería, Seguridad y Automatización
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+  https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header
 </p>
 
 <p align="center">
-  <b>SOC Builder · Microsoft 365 Project Lead · Security & Automation Engineer</b><br>
-  <i>Turning security operations into scalable, automated systems</i>
+  <b>Ingeniero en Ciberseguridad · Automatización · Liderazgo Técnico</b><br>
+  <i>Diseñando sistemas, no solo operándolos</i>
 </p>
 
 ---
 
-## 🧠 About Me | Sobre mí
+## 🧠 Sobre mí
 
-**EN**  
-I’m a cybersecurity and automation engineer focused on **building and operating a modern SOC**, leading **Microsoft 365 adoption projects**, and designing **end‑to‑end security automation pipelines**.  
-I work at the intersection of **security, cloud, and software engineering**, transforming manual operations into resilient, auditable systems.
+Ingeniero de tecnología enfocado en **construir soluciones técnicas sólidas, seguras y escalables**.  
+Trabajo combinando **seguridad, automatización, cloud y desarrollo**, con una fuerte orientación a **arquitectura, mejora continua y liderazgo técnico**.
 
-**ES**  
-Ingeniero en ciberseguridad y automatización, enfocado en la **construcción y operación de un SOC moderno**, liderazgo de proyectos **Microsoft 365**, y diseño de **pipelines de automatización de seguridad de punta a punta**.  
-Conecto seguridad, cloud y desarrollo para convertir procesos manuales en sistemas escalables y robustos.
+Mi perfil se mueve entre lo operativo y lo estratégico: desde la ejecución técnica hasta la definición de estándares, flujos y buenas prácticas para entornos empresariales.
 
 ---
 
-## 🛡️ Current Focus | Enfoque actual
+## 🚀 Proyectos y responsabilidades clave
 
-- 🧩 Designing & developing a **Security Operations Center (SOC)**
-- 🧠 Leading **Microsoft 365** strategy, governance & adoption
-- ⚙️ Security automation with **Wazuh → n8n → case management**
-- ☁️ Cloud, identity & perimeter security
-- 🧪 Continuous improvement through scripting and development
+### 🛡️ Construcción de un SOC
+- Diseño e implementación de un **Security Operations Center** desde cero
+- Definición de arquitectura, flujos de monitoreo y respuesta
+- Integración de SIEM, automatización y gestión de incidentes
+- Enfoque en escalabilidad, trazabilidad y reducción de trabajo manual
+
+### 🧩 Liderazgo en adopción Microsoft 365
+- Líder técnico de proyectos de **adopción y gobierno de Microsoft 365**
+- Evaluación de casos de uso reales por área
+- Alineación entre negocio, usuarios y capacidades técnicas
+- Optimización del uso de herramientas como parte del flujo de trabajo diario
+
+### ⚙️ Automatización y orquestación
+- Automatización de procesos operativos y de seguridad
+- Diseño de pipelines entre monitoreo, alertas y gestión de casos
+- Reducción de tareas repetitivas mediante flujos orquestados
+
+### 💻 Desarrollo y soporte técnico avanzado
+- Desarrollo web y scripting para soporte de operaciones
+- Soporte a infraestructura, cloud y plataformas empresariales
+- Enfoque práctico: soluciones que funcionan en producción
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,docker,python,js,react,vscode,azure,postgres,mysql&theme=dark" />
+  https://skillicons.dev/icons?i=linux,debian,docker,python,js,react,vscode,azure,postgres,mysql&theme=dark
 </p>
 
-**Security & Automation**  
-- Wazuh · n8n · SOC workflows · Incident handling  
+**Seguridad y Automatización**  
+- Wazuh · n8n · SOC · Flujos de respuesta a incidentes  
 
-**Infrastructure & Cloud**  
+**Infraestructura y Cloud**  
 - Linux (Debian) · Docker · Azure · Cloudflare  
 
-**Development**  
+**Desarrollo**  
 - Python · JavaScript · React  
 - SQL Server · PostgreSQL  
 
-**Productivity & Platforms**  
-- Microsoft 365 · VS Code  
+**Plataformas y herramientas**  
+- Microsoft 365 · Visual Studio Code  
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElGaboCraft&show_icons=true&theme=tokyonight&hide_border=true"/>
+  https://github-readme-stats.vercel.app/api?username=ElGaboCraft&show_icons=true&theme=tokyonight&hide_border=true
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElGaboCraft&theme=tokyonight&hide_border=true"/>
+  https://github-readme-streak-stats.herokuapp.com/?user=ElGaboCraft&theme=tokyonight&hide_border=true
 </p>
 
 ---
 
-## 🌐 Professional Presence
+## 🌐 Contacto y presencia profesional
 
-- 🌐 **Company / Projects**: https://enerit.net  
-- 📧 **Work Email**: azuniga@enerit.net  
-- 📧 **Personal Email**: axgabriel0214@gmail.com  
-
----
-
-## 🧩 Philosophy
-
-> **Security is not a product — it’s an engineered system.**  
-> Automation is not optional. Visibility is mandatory.  
-> If it can be repeated, it must be automated.
+- 🌐 **Web / Proyectos**: https://enerit.net  
+- 📧 **Correo profesional**: azuniga@enerit.net  
+- 📧 **Correo personal**: axgabriel0214@gmail.com  
 
 ---
+
+## 🧩 Enfoque profesional
+
+> La seguridad no es una herramienta, es un sistema.  
+> La automatización no es un lujo, es una necesidad.  
+> Si un proceso se repite, debe diseñarse mejor.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=40&section=footer"/>
+  https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=40&section=footer
 </p>
