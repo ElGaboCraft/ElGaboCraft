@@ -1,55 +1,54 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header)
+
 # 👾 ElGaboCraft | Ingeniería, Seguridad y Automatización
 
-<p align="center">
-  https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header
-</p>
+![enerit](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=90&text=ENERIT%20|%20Cybersecurity%20%26%20Automation&fontSize=28&fontColor=ffffff)
 
 <p align="center">
   <b>Ingeniero en Ciberseguridad · Automatización · Liderazgo Técnico</b><br>
-  <i>Diseñando sistemas, no solo operándolos</i>
+  <i>Diseñando sistemas seguros, escalables y orientados a operación real</i>
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Ingeniero de tecnología enfocado en **construir soluciones técnicas sólidas, seguras y escalables**.  
-Trabajo combinando **seguridad, automatización, cloud y desarrollo**, con una fuerte orientación a **arquitectura, mejora continua y liderazgo técnico**.
+Ingeniero de tecnología enfocado en **construir soluciones técnicas sólidas, seguras y escalables**, combinando **ciberseguridad, automatización, cloud y desarrollo**.
 
-Mi perfil se mueve entre lo operativo y lo estratégico: desde la ejecución técnica hasta la definición de estándares, flujos y buenas prácticas para entornos empresariales.
+Trabajo tanto a nivel **operativo como estratégico**, participando en el diseño de arquitecturas, definición de flujos, estandarización de procesos y liderazgo técnico en proyectos empresariales. Mi enfoque está orientado a sistemas que funcionen en producción, sean mantenibles y puedan escalar.
 
 ---
 
 ## 🚀 Proyectos y responsabilidades clave
 
 ### 🛡️ Construcción de un SOC
-- Diseño e implementación de un **Security Operations Center** desde cero
-- Definición de arquitectura, flujos de monitoreo y respuesta
+- Diseño e implementación de un **Security Operations Center (SOC)** desde cero
+- Definición de arquitectura de monitoreo y respuesta
 - Integración de SIEM, automatización y gestión de incidentes
-- Enfoque en escalabilidad, trazabilidad y reducción de trabajo manual
+- Enfoque en visibilidad, trazabilidad y reducción de carga operativa
 
 ### 🧩 Liderazgo en adopción Microsoft 365
-- Líder técnico de proyectos de **adopción y gobierno de Microsoft 365**
+- Líder técnico en proyectos de **adopción y gobierno de Microsoft 365**
 - Evaluación de casos de uso reales por área
 - Alineación entre negocio, usuarios y capacidades técnicas
-- Optimización del uso de herramientas como parte del flujo de trabajo diario
+- Uso estratégico de la plataforma como habilitador operativo
 
 ### ⚙️ Automatización y orquestación
 - Automatización de procesos operativos y de seguridad
 - Diseño de pipelines entre monitoreo, alertas y gestión de casos
-- Reducción de tareas repetitivas mediante flujos orquestados
+- Orquestación de flujos para minimizar tareas repetitivas
 
 ### 💻 Desarrollo y soporte técnico avanzado
 - Desarrollo web y scripting para soporte de operaciones
 - Soporte a infraestructura, cloud y plataformas empresariales
-- Enfoque práctico: soluciones que funcionan en producción
+- Resolución de problemas complejos en entornos productivos
 
 ---
 
 ## 🛠️ Stack tecnológico
 
 <p align="center">
-  https://skillicons.dev/icons?i=linux,debian,docker,python,js,react,vscode,azure,postgres,mysql&theme=dark
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,python,js,react,vscode,azure,postgres,mysql&theme=dark" />
 </p>
 
 **Seguridad y Automatización**  
@@ -70,11 +69,11 @@ Mi perfil se mueve entre lo operativo y lo estratégico: desde la ejecución té
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=ElGaboCraft&show_icons=true&theme=tokyonight&hide_border=true
+  <img src="https://github-readme-stats.vercel.app/api?username=ElGaboCraft&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=ElGaboCraft&theme=tokyonight&hide_border=true
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElGaboCraft&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -93,6 +92,4 @@ Mi perfil se mueve entre lo operativo y lo estratégico: desde la ejecución té
 > La automatización no es un lujo, es una necesidad.  
 > Si un proceso se repite, debe diseñarse mejor.
 
-<p align="center">
-  https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=40&section=footer
-</p>
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=40&section=footer)
