@@ -2,7 +2,7 @@
 
 # 👾 ElGaboCraft | Ingeniería, Seguridad y Automatización
 
-![enerit](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=90&text=ENERIT%20|%20Cybersecurity%20%26%20Automation&fontSize=28&fontColor=ffffff)
+![enerit](https://www.enerit.net/images/enerit-logo.png)
 
 <p align="center">
   <b>Ingeniero en Ciberseguridad · Automatización · Liderazgo Técnico</b><br>
