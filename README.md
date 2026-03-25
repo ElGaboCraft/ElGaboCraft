@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header)
+![ENERIT Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header)
+
+<p align="center">
+  <img src="https://www.enerit.net/images/enerit-logo.png" alt="ENERIT Logo" width="220"/>
+</p>
 
 # 👾 ElGaboCraft | Ingeniería, Seguridad y Automatización
-
-![enerit](https://www.enerit.net/images/enerit-logo.png)
 
 <p align="center">
   <b>Ingeniero en Ciberseguridad · Automatización · Liderazgo Técnico</b><br>
@@ -13,9 +15,9 @@
 
 ## 🧠 Sobre mí
 
-Ingeniero de tecnología enfocado en **construir soluciones técnicas sólidas, seguras y escalables**, combinando **ciberseguridad, automatización, cloud y desarrollo**.
+Ingeniero de tecnología enfocado en **construir soluciones técnicas sólidas, seguras y escalables**, integrando **ciberseguridad, automatización, cloud y desarrollo**.
 
-Trabajo tanto a nivel **operativo como estratégico**, participando en el diseño de arquitecturas, definición de flujos, estandarización de procesos y liderazgo técnico en proyectos empresariales. Mi enfoque está orientado a sistemas que funcionen en producción, sean mantenibles y puedan escalar.
+Mi perfil combina ejecución técnica con **criterio arquitectónico y liderazgo**, participando en la definición de flujos, estándares y sistemas que funcionan en producción y pueden evolucionar en el tiempo.
 
 ---
 
@@ -23,20 +25,20 @@ Trabajo tanto a nivel **operativo como estratégico**, participando en el diseñ
 
 ### 🛡️ Construcción de un SOC
 - Diseño e implementación de un **Security Operations Center (SOC)** desde cero
-- Definición de arquitectura de monitoreo y respuesta
+- Definición de arquitectura de monitoreo, correlación y respuesta
 - Integración de SIEM, automatización y gestión de incidentes
 - Enfoque en visibilidad, trazabilidad y reducción de carga operativa
 
 ### 🧩 Liderazgo en adopción Microsoft 365
-- Líder técnico en proyectos de **adopción y gobierno de Microsoft 365**
-- Evaluación de casos de uso reales por área
+- Líder técnico de proyectos de **adopción y gobierno de Microsoft 365**
+- Evaluación de procesos reales por área
 - Alineación entre negocio, usuarios y capacidades técnicas
 - Uso estratégico de la plataforma como habilitador operativo
 
 ### ⚙️ Automatización y orquestación
 - Automatización de procesos operativos y de seguridad
 - Diseño de pipelines entre monitoreo, alertas y gestión de casos
-- Orquestación de flujos para minimizar tareas repetitivas
+- Orquestación de flujos para eliminar tareas repetitivas
 
 ### 💻 Desarrollo y soporte técnico avanzado
 - Desarrollo web y scripting para soporte de operaciones
@@ -48,7 +50,7 @@ Trabajo tanto a nivel **operativo como estratégico**, participando en el diseñ
 ## 🛠️ Stack tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,docker,python,js,react,vscode,azure,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,python,js,react,vscode,azure,postgres,mysql&theme=dark"/>
 </p>
 
 **Seguridad y Automatización**  
@@ -69,11 +71,11 @@ Trabajo tanto a nivel **operativo como estratégico**, participando en el diseñ
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElGaboCraft&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElGaboCraft&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElGaboCraft&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElGaboCraft&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -90,6 +92,6 @@ Trabajo tanto a nivel **operativo como estratégico**, participando en el diseñ
 
 > La seguridad no es una herramienta, es un sistema.  
 > La automatización no es un lujo, es una necesidad.  
-> Si un proceso se repite, debe diseñarse mejor.
+> Si un proceso se repite, debe rediseñarse.
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=40&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=40&section=footer)
