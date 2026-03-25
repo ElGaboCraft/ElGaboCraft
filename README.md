@@ -102,7 +102,7 @@ passion:
 
 ## ⚡ Fun Facts
 
-- 🎮 "El que no arriesga, no gana" — I build, I break, I learn.
+- 🎮 "El que no arriesga, no gana" *(Nothing ventured, nothing gained)* — I build, I break, I learn.
 - 🌱 Always in learning mode — there's always something new to explore.
 - 🔥 Coffee + Code = ∞
 
